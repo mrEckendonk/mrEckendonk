@@ -4,5 +4,5 @@
 `As a speed freak things have to go fast, so I dedicate myself to optimize everything that comes on my working path.`
 
 - I love to code
-- I will find a solution for the existing problem
+- I will find a solution for any existing problem(s)
 
