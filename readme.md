@@ -40,5 +40,5 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mike-van-eckendonk
-[webdevplaylist]: https://www.youtube.com/
+[webdevplaylist]: https://vecks.com.br/
 [vscode]: https://code.visualstudio.com/
