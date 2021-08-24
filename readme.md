@@ -41,6 +41,8 @@
 ---
 <img align="left" alt="EckyBrazzz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eckybrazzz&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eckybrazzz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/mike-van-eckendonk
 [webdevplaylist]: https://vecks.com.br/
