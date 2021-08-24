@@ -13,7 +13,7 @@
 
 ### Connect with me:
 [<img align="left" alt="EckyBrazzz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="EckyBrazzz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="EckyBrazzz | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-15-512.png" />][twitter]
 [<img align="left" alt="EckyBrazzz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -46,6 +46,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mike-van-eckendonk
+[twitter]: https://twitter.com/mike_eckendonk
 [webdevplaylist]: https://vecks.com.br/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
