@@ -11,6 +11,12 @@
 - ⚡ Fun fact: I love reading pdf books.
 - 📫 How to reach me mike.e@vecks.com.br
 
+<p align="center">
+  A student at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
+
+  
+</p>
+
 ### Connect with me:
 [<img align="left" alt="EckyBrazzz | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
 [<img align="left" alt="EckyBrazzz | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-15-512.png" />][twitter]
