@@ -12,7 +12,7 @@
 - 📫 How to reach me mike.e@vecks.com.br
 
 <p align="center">
-  A student at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br>
+  A student at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br> , an online school with no upfront payments.
 
   
 </p>
