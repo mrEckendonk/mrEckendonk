@@ -14,7 +14,7 @@
 <p align="center">
   A student at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br> , an online school with no upfront payments.
  
- <p align="center"><b>Visitor's Count</b></p>
+<p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
 
   
