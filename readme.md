@@ -43,6 +43,6 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ---
-<img align="left" alt="EckyBrazzz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eckybrazzz&show_icons=true&hide_border=true" />
+<img align="left" alt="mrEckendonk Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrEckendonk&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eckybrazzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrEckendonk)](https://github.com/anuraghazra/github-readme-stats)
