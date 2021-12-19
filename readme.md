@@ -46,3 +46,8 @@
 <img align="left" alt="mrEckendonk Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrEckendonk&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrEckendonk)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
+
+Last update 19/12/2021
