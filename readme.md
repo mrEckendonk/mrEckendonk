@@ -10,15 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading pdf books.
 - 📫 How to reach me mike.e@vecks.com.br
-
-<p align="center">
-  A student at <a href="https://microverse.org?grsf=yt075f"><img align="center" src="https://img.shields.io/badge/Microverse-blueviolet"/><a/> <br> , an online school with no upfront payments.
- 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
-
-  
-</p>
+- 🛠️ Currently available for a remote work.
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-van-eckendonk/)
