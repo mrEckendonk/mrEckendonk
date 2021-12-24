@@ -3,11 +3,11 @@
 `I like to fix and optimize servers and remote coding as a Full Stack Developer.`
 `As a speed freak things have to go fast, so I dedicate myself to optimize everything that comes on my working path.`
 
-- 💞️I love to code
-- 👀 I will find a solution for any existing problem(s)
-- 💞️ I’m looking to collaborate on open source projects that will enhance my learning
-- 🌱 I’m always learning
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💞️I love to code.
+- 👀 I will find a solution for any existing problem(s).
+- 💞️ I’m looking to collaborate on open source projects that will enhance my learning.
+- 🌱 I’m always learning new things.
+- 🥅 2022+ Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love reading pdf books.
 - 📫 How to reach me mike.e@vecks.com.br
 - 🛠️ Currently available for a remote work.
