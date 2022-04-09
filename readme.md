@@ -28,7 +28,8 @@
 ## Frameworks and Libraries I use
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![!ReactJS](https://img.shields.io/badge/REACT-blue.svg?style=for-the-badge&logo=React&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React-1f1f1f?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jQuery&logoColor=377fc5)
   
 ## Tools I use
