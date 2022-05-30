@@ -48,8 +48,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrEckendonk)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><b>Visitor's Count</b></p>
+<p align="left"><b>Visitor's Count</b></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrEckendonk" alt="mrEckendonk" /> </p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7EckyBrazzz%7D/count.svg" alt="visitor badge"/></p>
 
-Last update 06/04/2022
+
+Last update 30/05/2022
