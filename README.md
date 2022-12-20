@@ -34,3 +34,5 @@ AWS Cloudflare Google Cloud Linode Netlify OVH Vercel Vultr
 <a href="https://www.linkedin.com/in/mike-van-eckendonk/"><img src="https://img.shields.io/badge/-Mike%20van%20Eckendonk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mike.e@vecks.com.br"><img src="https://img.shields.io/badge/mike.e@vecks.com.br-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/mike_eckendonk"><img src="https://img.shields.io/badge/-Mike van Eckendonk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+<img src="https://analytics.xoommit.com/matomo.php?idsite=4&amp;rec=1" style="border:0" alt="" />
