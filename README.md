@@ -16,13 +16,13 @@
 
 JavaScript | TypeScript | HTML  | CSS | PHP | Ruby | Python
 
-Frameworks and Libraries I use
+### Frameworks and Libraries I use
 
 BootStrap | SCSS | Styled Components | TailwindCSS | React | Gatsby | Next.JS | Redux | jQuery
 
 ### Tools I use
 
-Linux Git GitHub Node.js Apollo-GraphQL Slack VSCode Babel Jest Webpack TurboPack
+Linux | Git | GitHub | Node.js | Apollo-GraphQL | Slack | ~~VSCode~~ | WebStorm | PhpStorm | RubyMine | Babel | Jest | Webpack | TurboPack
 
 ### Favorite hosting
 
@@ -30,11 +30,11 @@ Linux Git GitHub Node.js Apollo-GraphQL Slack VSCode Babel Jest Webpack TurboPac
 
 ### Stats 📈
 <!-- don't abuse my vercel app, instead deploy your own. -->
-[![MrEckendonk's GitHub stats](https://mr-eckendonk-stats.vercel.app/api?username=mrEckendonk&count_private=true&show_icons=true&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
+[![MrEckendonk's GitHub stats](https://mr-eckendonk-stats.vercel.app/api?username=mrEckendonk&count_private=true&include_all_commits=false&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
 
 [![Top Langs](https://mr-eckendonk-stats.vercel.app/api/top-langs/?username=mrEckendonk&langs_count=10&custom_title=Languages%20I%20Code&count_private=true&layout=compact&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
 
-[![Stats](https://mr-eckendonk-stats.vercel.app/api/wakatime?username=mrEckendonk&theme=transparent&custom_title=Time%20I%20Code)](https://wakatime.com/@mrEckendonk)
+[![Stats](https://mr-eckendonk-stats.vercel.app/api/wakatime?username=mrEckendonk&theme=transparent&hide=other&custom_title=Time%20I%20Code)](https://wakatime.com/@mrEckendonk)
 <!-- don't abuse my vercel app, instead deploy your own -->
 
 ### Connect with me
