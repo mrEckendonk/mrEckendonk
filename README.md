@@ -22,20 +22,23 @@ BootStrap | SCSS | Styled Components | TailwindCSS | React | Gatsby | Next.JS | 
 
 ### Tools I use
 
-Linux | Git | GitHub | Node.js | Apollo-GraphQL | Slack | ~~VSCode~~ | WebStorm | PhpStorm | RubyMine | Babel | Jest | Webpack | TurboPack
+JetBrains | VSCode | WebStorm | PhpStorm | RubyMine | Babel | Jest | Webpack | TurboPack | CircleCI | NewRelic | Docker | Nginx | Apache | MySQL | MongoDB | Redis | Postgres | Firebase |
 
 ### Favorite hosting
 
 [AWS](https://aws.amazon.com/) || [Cloudflare](https://www.cloudflare.com/) ||  [Netlify](https://www.netlify.com/)  || [Vercel](https://vercel.com/) || [OVH](https://www.ovhcloud.com/) || [Vultr](https://www.vultr.com/?ref=8972345-8H) || [UpCloud](https://upcloud.com/signup/?promo=K2UJRH) || [DigitalOcean](https://m.do.co/c/80060d324b9d) || [Linode](https://www.linode.com/)
 
-### Stats 📈
+<details>
+<summary><h3>Stats 📈</h3></summary>  
+
 <!-- don't abuse my vercel app, instead deploy your own. -->
 [![MrEckendonk's GitHub stats](https://mr-eckendonk-stats.vercel.app/api?username=mrEckendonk&count_private=true&include_all_commits=false&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
 
-[![Top Langs](https://mr-eckendonk-stats.vercel.app/api/top-langs/?username=mrEckendonk&langs_count=10&custom_title=Languages%20I%20Code&count_private=true&layout=compact&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
+[![Top Langs](https://mr-eckendonk-stats.vercel.app/api/top-langs/?username=mrEckendonk&langs_count=10&custom_title=Languages%20I%20Love%20to%20Code&count_private=true&layout=compact&theme=transparent)](https://github.com/mrEckendonk/github-readme-stats)
 
-[![Stats](https://mr-eckendonk-stats.vercel.app/api/wakatime?username=mrEckendonk&theme=transparent&hide=other&custom_title=Time%20I%20Code)](https://wakatime.com/@mrEckendonk)
+[![Stats](https://mr-eckendonk-stats.vercel.app/api/wakatime?username=mrEckendonk&theme=transparent&hide=other&custom_title=Hours%20Coding%20Some%20Cool%20Things)](https://wakatime.com/@mrEckendonk)
 <!-- don't abuse my vercel app, instead deploy your own -->
+</details>
 
 ### Connect with me
 
