@@ -1,20 +1,45 @@
-
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Mike van Eckendonk </h1>
 
-```I like to fix and optimize servers and remote coding as a Full Stack Developer. As a speed freak, things have to go fast, so I dedicated myself to optimize everything that comes on my working path.```
+```
+I like to fix and optimize servers and remote coding as a Full Stack Developer. As a speed freak, things have to go fast, so I dedicated myself to optimize everything that comes on my working path. This includes employees around the Globe.
+```
 
-💞️ I love to code.</br>
+💞️ I love to code and lead people to path of success. </br>
 👀 I will find a solution for any existing problem(s).</br>
-💞️ I’m looking to collaborate on open-source projects that will enhance my learning.</br>
+💞️ I’m looking to collaborate on open-source projects that will enhance my learning or of my partners.</br>
 🌱 I’m always learning new things.</br>
-🥅 2022+ Goals: Contribute more to Open Source projects.</br>
-⚡ Fun fact: I love reading pdf books.</br>
+🥅 2025+ Goals: **Start a developers community.** </br>
+⚡ Fun fact: I love reading PDF books.</br>
 📫 How to reach me mike.e@vecks.com.br</br>
-🛠️ Currently available for a remote job.</br>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZ66f6RYJKwYBBAHaRw8BAQdAqPxWv/pzW/l2YslifmX38t6tRsqB4RjMc+Eq
+QVaOFFa0KU1pa2UgVmFuIEVja2VuZG9uayAgPG1pa2UuZUB2ZWNrcy5jb20uYnI+
+iIkEExYIABoECwkIBwIVCAIWAQIZAQWCZ66f6QKeAQKbAwAhCRAD1IiJACoR5RYh
+BMpmRcjvJ7EzDODMCAPUiIkAKhHlDu8A/1N+rOGG3PZvQqF/YH12uM/mPe+krab1
+t2g8vm40Bj8FAP4uwWYfshxXPr0paSl/fUioYw+jE5lkGOjmCzyrWWbnDYkBMwQQ
+AQgAHRYhBDTQhrMiiNNJZh6FQjlRQdXixmb4BQJnrqwmAAoJEDlRQdXixmb4nA4H
+/351ilpnaFnDzRRTnUcdn6Lurl3HSsp0fd6p/XkapU7BddCY5UwzUzSZDQ1lmlUJ
+GulcjbvvKC8wCfRWvqbRBaWyskXdDbuJhwGE2Lq3ZAQKs/um7gJaHDhhjUSKwyhR
+zSEBTc9anwGkeqH7McLI2/5aiBI+w7QPpB7mDom56aMRb0eDsOefWmoPY7GqYJkh
+RG1kmJosjN9X7m1exOlos5ci3jpYPwSudZ2NQ/r2tfR92h7L+nbwRjkr/76nE6LY
+BPPJzRoPQQj81bvR6DPJ8KIQfduEkbwcWfTduFeGOMUeA0BRSZC/EeRtOn5FOmls
+4pSt9s5zLI4kJCZuczFtZWW4OARnrp/pEgorBgEEAZdVAQUBAQdAMyMj0IBlmYrn
+D84dIQFnbT+zSNyLVJQo+ukqSBY7lXADAQgHiHgEGBYIAAkFgmeun+kCmwwAIQkQ
+A9SIiQAqEeUWIQTKZkXI7yexMwzgzAgD1IiJACoR5TOLAQCTdtk7v1xYZax6mhfe
+vS1lbd+J7goPOA7DcPQdM1TblQD/c3l28KQLtYX5p/99y4soOc2IKS+heoupt83P
+dR+9Lwg=
+=Az4U
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+~~🛠️ Currently available for a remote job if the payment fits my requerments :LiSmile:~~
 
 ### Languages I write in
 
-JavaScript | TypeScript | HTML  | CSS | PHP | Ruby | Python
+JavaScript | Typescript | HTML  | CSS | PHP | Ruby | Python
 
 ### Frameworks and Libraries I use
 
